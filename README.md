@@ -1,6 +1,9 @@
 <h2 align="left">Hello 👋 Travaler!</h2>
+Olá! 👋 Meu nome é [Seu Nome], e estou empolgado em compartilhar um pouco sobre mim e minha jornada na área de desenvolvimento de software até agora.
+
 
 ###
+
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas, atualmente no terceiro semestre.
 - 👨‍💻 Trabalhando na [Peak One Developments](https://www.peakonedevelopments.com/) há 5 meses.
