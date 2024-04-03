@@ -1,6 +1,5 @@
 <h2 align="left">Hello 👋 Travaler!</h2>
-Olá! 👋 Meu nome é [Seu Nome], e estou empolgado em compartilhar um pouco sobre mim e minha jornada na área de desenvolvimento de software até agora.
-
+Olá! 👋 Meu nome é Pedro, e estou empolgado em compartilhar um pouco sobre mim e minha jornada na área de desenvolvimento de software até agora.
 
 ###
 
