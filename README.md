@@ -5,7 +5,7 @@ Olá! 👋 Meu nome é Pedro, e estou empolgado em compartilhar um pouco sobre m
 
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas, atualmente no terceiro semestre.
-- 👨‍💻 Trabalhando na [Peak One Developments](https://www.peakonedevelopments.com/) há 5 meses.
+- 👨‍💻 Trabalhando na [Peak One Developments](https://www.peakonedevelopments.com/) há 7 meses.
 - 🚀 Apaixonado por desenvolvimento web e sempre em busca de aprender novas tecnologias e práticas de programação.
   
 <p align="left">Nos últimos 5 meses na Peak One Developments, tive a oportunidade de trabalhar com uma variedade de tecnologias e ferramentas, incluindo:
